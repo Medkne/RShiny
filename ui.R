@@ -1,8 +1,5 @@
-# Projet de Visualisation (Master 2 IMSD)
-#
-# Par :
+# By :
 # KHATBANE Mohammed
-# Kassa-sombo Arthur
 #----------------------------
 library(shiny)
 library(ggplot2)
