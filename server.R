@@ -1,8 +1,6 @@
-# Projet de Visualisation (Master 2 IMSD)
-#
-# Par :
+# by :
 # KHATBANE Mohammed
-# Kassa-sombo Arthur
+
 #----------------------
 
 
